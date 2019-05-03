@@ -1,0 +1,48 @@
+[
+  {
+    "group": "Programming Language",
+    "items": [
+      { "icon": "devicon-javascript-plain", "title": "javascript" },
+      { "icon": "devicon-csharp-plain", "title": "c#" },
+      { "icon": "devicon-html5-plain", "title": "html5" },
+      { "icon": "devicon-css3-plain", "title": "css" }
+    ]
+  },
+  {
+    "group": "Framework & Library",
+    "items": [
+      { "icon": "devicon-nodejs-plain", "title": "node.js" },
+      { "icon": "devicon-react-original", "title": "react.js" },
+      { "icon": "devicon-vuejs-plain", "title": "vue.js" },
+      { "icon": "devicon-jquery-plain", "title": "jquery" },
+      { "icon": "devicon-dot-net-plain", "title": "asp.net" },
+      { "icon": "devicon-webpack-plain", "title": "webpack" },
+      { "icon": "devicon-sass-original", "title": "sass" },
+      { "icon": "etc", "title": "elk stack" },
+      { "icon": "etc", "title": "jest" },
+      { "icon": "etc", "title": "windowsform" }
+    ]
+  },
+  {
+    "group": "RDBMS",
+    "items": [
+      { "icon": "etc", "title": "mssql" },
+      { "icon": "devicon-postgresql-plain", "title": "postgresql" }
+    ]
+  },
+  {
+    "group": "OS",
+    "items": [
+      { "icon": "devicon-windows8-original", "title": "windows" },
+      { "icon": "devicon-apple-original", "title": "mac os" }
+    ]
+  },
+  {
+    "group": "ETC",
+    "items": [
+      { "icon": "devicon-github-plain", "title": "github" },
+      { "icon": "devicon-bitbucket-plain", "title": "bitbucket" },
+      { "icon": "etc", "title": "jira" }
+    ]
+  }
+]
