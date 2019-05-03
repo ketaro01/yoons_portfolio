@@ -45,8 +45,8 @@ const App: React.FC = () => {
   }, []);
   return (
     <div>
+      <Menu />
       <div className="sample-header">
-        <Menu />
         <div style={styles.settings}>
           <IconButton aria-label="setting">
             <Icon style={styles.setting}>settings</Icon>
