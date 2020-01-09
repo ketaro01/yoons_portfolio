@@ -1,11 +1,24 @@
 [
   {
+    "date": "2019.05 ~ 현재",
+    "project": "eForm3 서비스 개발",
+    "company": "i-on communications",
+    "env": "aws ec2 linux",
+    "useSkills": [
+      "javascript(es6)",
+      "react.js",
+      "redux"
+    ],
+    "description": "React.js 프레임워크를 활용하여 전자계약 서비스인 eForm 프론트 엔드 개발 및 유지보수",
+    "result": "에디터의 불필요한 로직들을 수정하고 canvas 이슈, 신규 기능들을 추가하여 성능을 향상. sign, stamp 생성 npm 모듈 개발"
+  },
+  {
     "date": "2018.02 ~ 2019.02",
     "project": "서류평가 시스템 리뉴얼 개발",
     "company": "jinhakapply",
     "env": "windows nt",
     "useSkills": [
-      "javascript(es7)",
+      "javascript(es6)",
       "react.js",
       "redux",
       "express",
@@ -22,7 +35,7 @@
     "company": "jinhakapply",
     "env": "windows nt",
     "useSkills": [
-      "javascript(es7)",
+      "javascript(es6)",
       "vue.js",
       "vuex",
       "express",

@@ -16,7 +16,8 @@ import PageUp from "./components/PageUp";
 
 const styles = {
   settings: { position: "absolute" as "absolute", right: 0, bottom: 20 },
-  setting: { margin: 5, opacity: 0.5, cursor: "pointer", color: "#fff" }
+  setting: { margin: 5, opacity: 0.5, cursor: "pointer", color: "#fff" },
+  gitIcon: { fontSize: "3rem" },
 };
 
 const App: React.FC = () => {
@@ -148,6 +149,25 @@ const App: React.FC = () => {
           </Section>
         </div>
       </div>
+      <footer>
+        <div className="footer-box">
+          <div>
+            <p>Email</p>
+            <p>
+              <a href="mailto:ketaro01@naver.com">ketaro01@naver.com</a>
+            </p>
+          </div>
+          <div>
+            <p>Repository</p>
+            <p style={styles.gitIcon}>
+              <a href="https://github.com/ketaro01">
+                <i className="devicon-github-plain" />
+              </a>
+            </p>
+          </div>
+          <p className="copyright">Copyright {new Date().getFullYear()}. daehun yoon All rights reserved.</p>
+        </div>
+      </footer>
       <PageUp />
     </div>
   );
