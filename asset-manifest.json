@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/yoons_portfolio/static/css/main.638f8ac1.chunk.css",
-    "main.js": "/yoons_portfolio/static/js/main.200d962a.chunk.js",
-    "main.js.map": "/yoons_portfolio/static/js/main.200d962a.chunk.js.map",
-    "runtime~main.js": "/yoons_portfolio/static/js/runtime~main.b751ddf1.js",
-    "runtime~main.js.map": "/yoons_portfolio/static/js/runtime~main.b751ddf1.js.map",
-    "static/css/2.400ebc83.chunk.css": "/yoons_portfolio/static/css/2.400ebc83.chunk.css",
-    "static/js/2.cb2aa175.chunk.js": "/yoons_portfolio/static/js/2.cb2aa175.chunk.js",
-    "static/js/2.cb2aa175.chunk.js.map": "/yoons_portfolio/static/js/2.cb2aa175.chunk.js.map",
-    "index.html": "/yoons_portfolio/index.html",
-    "precache-manifest.22a3e9d3197403a96b1e51b730ed1ae8.js": "/yoons_portfolio/precache-manifest.22a3e9d3197403a96b1e51b730ed1ae8.js",
-    "service-worker.js": "/yoons_portfolio/service-worker.js",
-    "static/css/2.400ebc83.chunk.css.map": "/yoons_portfolio/static/css/2.400ebc83.chunk.css.map",
-    "static/css/main.638f8ac1.chunk.css.map": "/yoons_portfolio/static/css/main.638f8ac1.chunk.css.map",
-    "static/media/App.scss": "/yoons_portfolio/static/media/img-bg-sample-parallax-header.0a0cff34.jpg",
-    "static/media/wwwww.png": "/yoons_portfolio/static/media/wwwww.254ad5f1.png"
+    "main.css": "/static/css/main.af16b5b8.chunk.css",
+    "main.js": "/static/js/main.a210ac61.chunk.js",
+    "main.js.map": "/static/js/main.a210ac61.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.400ebc83.chunk.css": "/static/css/2.400ebc83.chunk.css",
+    "static/js/2.cb2aa175.chunk.js": "/static/js/2.cb2aa175.chunk.js",
+    "static/js/2.cb2aa175.chunk.js.map": "/static/js/2.cb2aa175.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.38b78ba7e6402b27eafae791caede7b0.js": "/precache-manifest.38b78ba7e6402b27eafae791caede7b0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.400ebc83.chunk.css.map": "/static/css/2.400ebc83.chunk.css.map",
+    "static/css/main.af16b5b8.chunk.css.map": "/static/css/main.af16b5b8.chunk.css.map",
+    "static/media/App.scss": "/static/media/img-bg-sample-parallax-header.0a0cff34.jpg",
+    "static/media/wwwww.png": "/static/media/wwwww.254ad5f1.png"
   }
 }
