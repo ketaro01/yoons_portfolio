@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ketaro01.github.io/yoons_portfolio",
+  "homepage": "https://yoooons.com",
   "dependencies": {
     "@material-ui/core": "^4.0.0-alpha.8",
     "@types/jest": "24.0.11",
